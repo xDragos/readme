@@ -12,7 +12,13 @@
 ◖    ⠀⠀⠀⠀ ♂️ ⠀⠀⠀⠀•⠀⠀⠀⠀ 18 ⠀⠀⠀⠀•⠀⠀⠀⠀ SINGLE ⠀⠀⠀⠀⠀⠀⠀  ⠀⠀⠀◗
 
 
-➤⠀A⠀B⠀O⠀U⠀T
+
+<h3 align="left">➤A B O U T</h3>
+<p align="left"> 
+</p>
+
+
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
@@ -21,8 +27,12 @@ kind of games but especially RTS, FPS and RPG.
 
 
 
- 
-➤⠀S⠀P⠀E⠀C⠀S
+
+
+<h3 align="left">➤⠀S⠀P⠀E⠀C⠀S</h3>
+<p align="left"> 
+</p>
+
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
@@ -40,7 +50,11 @@ kind of games but especially RTS, FPS and RPG.
 
  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
-ℙ𝕖𝕣𝕚𝕡𝕙𝕖𝕣𝕒𝕝𝕤:
+
+<h3 align="left">➤ PERIPHERALS</h3>
+<p align="left"> 
+</p>
+
 
 𝕄𝕠𝕦𝕤𝕖: 𝔸𝕢𝕚𝕣𝕪𝕤 𝕋𝕙𝕖 𝔾𝕣𝕖𝕒𝕥 𝔸𝕟𝕟𝕚𝕙𝕚𝕝𝕒𝕥𝕠𝕣.
 𝕂𝕖𝕪𝕓𝕠𝕒𝕣𝕕: 𝕃𝕖𝕟𝕠𝕧𝕠 𝕃𝕖𝕘𝕚𝕠𝕟 𝕂𝟛𝟘𝟘.
@@ -51,7 +65,10 @@ kind of games but especially RTS, FPS and RPG.
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-𝘾𝙤𝙪𝙣𝙩𝙚𝙧-𝙎𝙩𝙧𝙞𝙠𝙚/𝘾𝙎2 𝙨𝙚𝙩𝙩𝙞𝙣𝙜𝙨:
+
+<h3 align="left">➤𝘾𝙤𝙪𝙣𝙩𝙚𝙧-𝙎𝙩𝙧𝙞𝙠𝙚/𝘾𝙎2 𝙨𝙚𝙩𝙩𝙞𝙣𝙜𝙨:</h3>
+<p align="left"> 
+</p>
 
 
 𝙍𝙚𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣:
@@ -73,7 +90,6 @@ kind of games but especially RTS, FPS and RPG.
 <p align="left"> 
 </p>
 
-➤⠀C⠀O⠀M⠀M⠀U⠀N⠀I⠀T⠀Y
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
 PS ID: **smhxdragos**
 EA ID: **smhxdragos**
