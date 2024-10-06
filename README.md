@@ -1,11 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
 markdown
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">I'm from Croatia and I love to play all kind of games but especially RTS, FPS and RPG.</h3>
