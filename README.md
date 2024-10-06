@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragos&label=Profile%20views&color=0e75b6&style=flat" alt="xdragos" /> </p>
 
-- ­ [­](­)
+ ­ [­](­)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
 INFORMATION☢️
-⠀⠀◖ ⠀⠀⠀⠀⠀⠀⠀ ♂️ ⠀⠀⠀⠀•⠀⠀⠀⠀ 18 ⠀⠀⠀⠀•⠀⠀⠀⠀ SINGLE ⠀⠀⠀⠀⠀⠀⠀◗
+◖    ⠀⠀⠀⠀⠀⠀⠀ ♂️ ⠀⠀⠀⠀•⠀⠀⠀⠀ 18 ⠀⠀⠀⠀•⠀⠀⠀⠀ SINGLE ⠀⠀⠀⠀⠀⠀⠀◗
 
 
 ➤⠀A⠀B⠀O⠀U⠀T
