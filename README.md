@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David</h1>
+<h1 align="center">Hi 👋, I'm Dragos</h1>
 <h3 align="center">I'm from Croatia and I love to play all kind of games but especially RTS, FPS and RPG.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragos&label=Profile%20views&color=0e75b6&style=flat" alt="xdragos" /> </p>
@@ -16,7 +16,7 @@
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
 
-My name is David and I'm 18 years old. I'm from Croatia and I love to play all
+My name is Dragos and I'm 18 years old. I'm from Croatia and I love to play all
 kind of games but especially RTS, FPS and RPG.
 
 
@@ -55,7 +55,7 @@ kind of games but especially RTS, FPS and RPG.
 
 
 𝙍𝙚𝙨𝙤𝙡𝙪𝙩𝙞𝙤𝙣:
-1440:1024, 4:3, 239𝙃𝙯
+1280 x 960, 4:3, 239𝙃𝙯
 
 𝙈𝙤𝙪𝙨𝙚 𝙙𝙥𝙞:
 1097.28 𝙙𝙥𝙞
@@ -69,13 +69,30 @@ kind of games but especially RTS, FPS and RPG.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
+<h3 align="left">➤⠀C⠀O⠀M⠀M⠀U⠀N⠀I⠀T⠀Y</h3>
+<p align="left"> 
+</p>
+
+➤⠀C⠀O⠀M⠀M⠀U⠀N⠀I⠀T⠀Y
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
+PS ID: **smhxdragos**
+EA ID: **smhxdragos**
+STEAM ID: **https://steamcommunity.com/profiles/76561199064230715**
+DSC ID: **dragos6962**
+RG ID: **XDRAGOSRG** 
+
+
+
+
+
+
+
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+
 
 - 💬 Ask me about **questions, advice, and what you want**
 
 - ­ [­](­)
 - 
 - ­ **­**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left"> https://steamcommunity.com/profiles/76561199064230715
-</p>
