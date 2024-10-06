@@ -18,5 +18,5 @@ markdown
 - ­ **­**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> https://steamcommunity.com/profiles/76561199064230715
 </p>
