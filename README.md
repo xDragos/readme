@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dragos</h1>
-<h3 align="center">I'm from Croatia and I love to play all kind of games but especially RTS, FPS and RPG.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdragos&label=Profile%20views&color=0e75b6&style=flat" alt="xdragos" /> </p>
 
@@ -9,6 +8,7 @@
 <h3 align="left">➤ 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍☢️</h3>
 <p align="left"> 
 </p>
+
 
 
 [­](­)
@@ -22,7 +22,7 @@
 <p align="left"> 
 </p>
 
-
+Hi 👋, I'm Dragos. I'm from Croatia and I love to play all kind of games but especially RTS, FPS and RPG.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
