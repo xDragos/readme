@@ -105,7 +105,7 @@ I'm from Croatia and I love to play all kind of games but especially RTS, FPS an
 <p align="left"> 
 </p>
 
-PS ID: **smhxdragos**
+PS ID: **smhxdragos** (https://psnprofiles.com/smhxdragos)
 </p>
 
 EA ID: **smhxdragos**
@@ -114,10 +114,10 @@ EA ID: **smhxdragos**
 STEAM ID: **https://steamcommunity.com/profiles/76561199064230715**
 </p>
 
-DSC ID: **dragos6962**
+DSC ID: **dragos6962** (https://discordlookup.com/user/946802843392815164)
 </p>
 
-RG ID: **XDRAGOSRG**
+RG ID: **XDRAGOSRG** (https://socialclub.rockstargames.com/member/xDragosRG?id=191765297)
 </p>
 
 
