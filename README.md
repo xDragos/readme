@@ -13,7 +13,7 @@
 
 
 
-<h3 align="left">➤A B O U T</h3>
+<h3 align="left">➤ABOUT</h3>
 <p align="left"> 
 </p>
 
@@ -29,7 +29,7 @@ kind of games but especially RTS, FPS and RPG.
 
 
 
-<h3 align="left">➤⠀S⠀P⠀E⠀C⠀S</h3>
+<h3 align="left">➤⠀SPECS</h3>
 <p align="left"> 
 </p>
 
