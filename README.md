@@ -113,7 +113,3 @@ RG ID: **XDRAGOSRG**
 
 
  💬 Ask me about **questions, advice, and what you want**
-
-- ­ [­](­)
-- 
-- ­ **­**
