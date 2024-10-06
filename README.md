@@ -5,7 +5,12 @@
 
  ­ [­](­)
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
-**INFORMATION☢️**
+
+<h3 align="left">➤ **INFORMATION☢️**</h3>
+<p align="left"> 
+</p>
+
+
 [­](­)
 
 
@@ -13,7 +18,7 @@
 
 
 
-<h3 align="left">➤ABOUT</h3>
+<h3 align="left">➤ **ABOUT**</h3>
 <p align="left"> 
 </p>
 
@@ -29,7 +34,7 @@ kind of games but especially RTS, FPS and RPG.
 
 
 
-<h3 align="left">➤⠀SPECS</h3>
+<h3 align="left">➤⠀**SPECS**</h3>
 <p align="left"> 
 </p>
 
@@ -51,7 +56,7 @@ kind of games but especially RTS, FPS and RPG.
  
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
 
-<h3 align="left">➤ PERIPHERALS</h3>
+<h3 align="left">➤ **PERIPHERALS**</h3>
 <p align="left"> 
 </p>
 
@@ -66,7 +71,7 @@ kind of games but especially RTS, FPS and RPG.
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-<h3 align="left">➤𝘾𝙤𝙪𝙣𝙩𝙚𝙧-𝙎𝙩𝙧𝙞𝙠𝙚/𝘾𝙎2 𝙨𝙚𝙩𝙩𝙞𝙣𝙜𝙨:</h3>
+<h3 align="left">➤ **𝘾𝙤𝙪𝙣𝙩𝙚𝙧-𝙎𝙩𝙧𝙞𝙠𝙚/𝘾𝙎2 𝙨𝙚𝙩𝙩𝙞𝙣𝙜𝙨**</h3>
 <p align="left"> 
 </p>
 
