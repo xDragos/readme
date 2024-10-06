@@ -97,6 +97,7 @@ kind of games but especially RTS, FPS and RPG.
 
 PS ID: **smhxdragos**
 [­](­)
+</p>
 EA ID: **smhxdragos**
 [­](­)
 STEAM ID: **https://steamcommunity.com/profiles/76561199064230715**
