@@ -93,4 +93,4 @@ kind of games but especially RTS, FPS and RPG.
 
 
 
- 💬 Ask me about **questions, advice, and what you want**
+ 💬 Ask me about **questions, advices, and what you want**
