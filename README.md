@@ -9,10 +9,6 @@ markdown
 - ­ [­](­)
 
 - 💬 Ask me about **questions, advice, and what you want**
-
-- 📫 How to reach me you can add me on: **steam** (https://steamcommunity.com/profiles/76561199064230715)
-  
-
 - ­ [­](­)
 
 - ­ **­**
