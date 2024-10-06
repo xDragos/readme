@@ -96,10 +96,15 @@ kind of games but especially RTS, FPS and RPG.
 </p>
 
 PS ID: **smhxdragos**
+[­](­)
 EA ID: **smhxdragos**
+[­](­)
 STEAM ID: **https://steamcommunity.com/profiles/76561199064230715**
+[­](­)
 DSC ID: **dragos6962**
+[­](­)
 RG ID: **XDRAGOSRG**
+[­](­)
 
 [­](­)
 
