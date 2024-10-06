@@ -95,8 +95,6 @@ kind of games but especially RTS, FPS and RPG.
 <p align="left"> 
 </p>
 
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬⠀▬▬▬⠀▬▬⠀▬
-
 
 
 
