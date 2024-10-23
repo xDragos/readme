@@ -105,7 +105,7 @@ I'm from Croatia and I love to play all kind of games but especially RTS, FPS an
 <p align="left"> 
 </p>
 
-PS ID: **smhxdragos** (https://psnprofiles.com/smhxdragos)
+PS ID: **smhxdragos** (https://guns.lol/xdragos)
 </p>
 
 EA ID: **smhxdragos**
