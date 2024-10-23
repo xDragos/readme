@@ -101,7 +101,7 @@ I'm from Croatia and I love to play all kind of games but especially RTS, FPS an
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-<h3 align="left">➤ 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 </h3>
+<h3 align="left">➤ 𝐒𝐎𝐂𝐈𝐀𝐋𝐒 (https://guns.lol/xdragos) </h3>
 <p align="left"> 
 </p>
 
